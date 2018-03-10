@@ -1,5 +1,7 @@
 # google-calendar
-Store web application events to user Google calendar
+Sync your custom events to your Google Calendar
+
+WIP
 
 
 Add to Providers in config/app.php:
